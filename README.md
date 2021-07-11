@@ -1,3 +1,5 @@
+https://medium.com/@belindaosei234/what-book-to-read-e9176b9d86c3 - A link to a medium blogpost
+
 # Amazon-Top-50-Bestselling-Books
 This is an EDA on Amazon's top 50 Bestselling Books
 The libraries used were pandas to read the file, matplot lib and seaborn to plot the grapjs for the visualisations.
